@@ -9,7 +9,7 @@ var fs = require('fs')
 
 
 
-describe('Dataset', function(){
+describe('report', function(){
     describe('#metadata', function(){
 
         it('should hava a columns array', function(done){

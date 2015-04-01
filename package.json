@@ -1,6 +1,6 @@
 {
   "name": "cognos-report",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "Fabian Roloff <fabian.roloff@vocatus.de>",
   "license": "ISC",
   "dependencies": {
-    "cognos-report-dataset": "*",
-    "cognos-report-xmlreader": "*",
+    "cognos-report-dataset": "~0.1",
+    "cognos-report-xmlreader": "~0.1",
     "xml2js": "^0.4.4"
   }
 }
